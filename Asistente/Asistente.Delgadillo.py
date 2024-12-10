@@ -43,7 +43,7 @@ thread3_event = Event()
 thread3_event.set()
 
 
-
+#que miedo esto por dios, modulalo plis
 #-----------------------------------------CREDENCIALES Y VARIABLES----------------------------------
 
 def Asignacion_de_Credenciales():
